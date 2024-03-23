@@ -1,162 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="6d693f2b-7dd9-4ef6-8ce8-bdb18b91cca0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua-blatt1-src.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua-blatt2-poison-src.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/broker/Broker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/broker/ClientCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/AquaGui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/Aqualife.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/ClientCommunicator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/FishView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/NotImplementedYetController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/TankModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/TankView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/resources/piranha-black-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/resources/piranha-black-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/resources/piranha-red-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/client/resources/piranha-red-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/Direction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/FishModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/Properties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/msgtypes/DeregisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/msgtypes/HandoffRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/msgtypes/RegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt1/common/msgtypes/RegisterResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt2/broker/PoisonPill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/aqua/blatt2/broker/Poisoner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/Endpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/Endpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/Endpoint.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/Message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/TimedMessage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/timed/Endpoint$Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/timed/Endpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/timed/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/messaging/timed/TimedMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/resources/background.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/resources/tab.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/resources/titlebar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/resources/titlebar_end.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/timed/Endpoint$Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/timed/Endpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/timed/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/messaging/timed/TimedMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/broker/Broker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/broker/ClientCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/AquaGui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/Aqualife.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/ClientCommunicator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/FishView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/NotImplementedYetController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/TankModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/TankView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/resources/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/resources/piranha-black-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/resources/piranha-black-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/resources/piranha-red-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/client/resources/piranha-red-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/Direction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/FishModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/Properties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/msgtypes/DeregisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/msgtypes/HandoffRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/msgtypes/NeighborUpdate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/msgtypes/RegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt1/common/msgtypes/RegisterResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt2/broker/PoisonPill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/aqua/blatt2/broker/Poisoner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/Endpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/messaging/Endpoint.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/messaging/Message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/messaging/TimedMessage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/messaging/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/messaging/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/messaging/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/resources/background.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/resources/tab.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/resources/titlebar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/resources/titlebar_end.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/timed/Endpoint$Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/timed/Endpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/timed/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arbeitsmaterialien/src/messaging/timed/TimedMessage.class" beforeDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="2e5rBQX02eeoebA5Qp2VniMFH25" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Broker.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/stefa/Desktop/A_Stefan/HTWG/6. Semester/Verteilte Systeme/VerteilteSysteme/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Broker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../../Program Files/Java/jdk-17.0.5" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aqua.blatt1.broker.Broker" />
+  <component name="RunManager">
+    <configuration name="Aqualife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aqua.blatt1.client.Aqualife" />
       <module name="VerteilteSysteme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aqua.blatt1.broker.*" />
+          <option name="PATTERN" value="aqua.blatt1.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,42 +14,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../../Program Files/Java/jdk-17.0.5" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Broker" />
-      <item itemvalue="Application.Main" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Broker" />
+        <item itemvalue="Application.Aqualife" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="6d693f2b-7dd9-4ef6-8ce8-bdb18b91cca0" name="Changes" comment="" />
-      <created>1711205143405</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1711205143405</updated>
-      <workItem from="1711205144409" duration="766000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
