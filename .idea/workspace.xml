@@ -6,9 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="87cdb7e4-734d-4e21-a507-a0d1e2b21632" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VerteilteSysteme/aqua/blatt1/broker/Broker$BrokerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VerteilteSysteme/aqua/blatt1/broker/Broker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VerteilteSysteme/aqua/blatt1/broker/Broker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/broker/Broker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/broker/Broker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/client/ClientCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/client/ClientCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/client/TankModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/client/TankModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/client/TankView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/client/TankView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/DeregisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/DeregisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/HandoffRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/HandoffRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/NeighborUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/NeighborUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/RegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aqua/blatt1/common/msgtypes/RegisterResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,23 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Aqualife.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Broker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Aqualife.executor": "Run",
+    "Application.Broker.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Aqualife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aqua.blatt1.client.Aqualife" />
@@ -73,11 +79,26 @@
       <updated>1711210259737</updated>
       <workItem from="1711210260752" duration="988000" />
       <workItem from="1711354487648" duration="2744000" />
-      <workItem from="1711363286845" duration="2132000" />
+      <workItem from="1711363286845" duration="2435000" />
+      <workItem from="1712037822452" duration="16000" />
+      <workItem from="1712039630770" duration="8000" />
+      <workItem from="1712476042330" duration="501000" />
+      <workItem from="1713166282909" duration="1966000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aqua/blatt1/broker/Broker.java</url>
+          <line>222</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
